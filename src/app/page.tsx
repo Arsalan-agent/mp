@@ -435,7 +435,7 @@ export default function PortfolioPage() {
                       <div className="relative w-24 h-24 md:w-40 md:h-40 mb-4">
                         <div className="profile-border-flow"></div>
                         <div className="w-full h-full rounded-full bg-[#050816] flex items-center justify-center overflow-hidden border-2 border-white/10 shadow-lg shadow-cyan-500/20 relative z-10">
-                          <img src="/007.jpg" alt="Arsalan" className="w-full h-full object-cover" />
+                          <img src="/177.jpg" alt="Arsalan" className="w-full h-full object-cover" />
                         </div>
                       </div>
 
